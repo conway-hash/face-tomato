@@ -1,0 +1,6 @@
+.env
+models/
+*.pt
+output.gif
+output.jpg
+__pycache__/
